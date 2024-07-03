@@ -1,0 +1,15 @@
+C:\Users\Hamza Khan\Desktop\Hamza\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Hamza Khan\Desktop\Hamza\Server\Server\bin\Debug\Server.exe
+C:\Users\Hamza Khan\Desktop\Hamza\Server\Server\bin\Debug\Server.pdb
+C:\Users\Hamza Khan\Desktop\Hamza\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Hamza Khan\Desktop\Hamza\Server\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hamza Khan\Desktop\Hamza\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Hamza Khan\Desktop\Hamza\Server\Server\obj\Debug\Server.exe
+C:\Users\Hamza Khan\Desktop\Hamza\Server\Server\obj\Debug\Server.pdb
+C:\Users\Hamza Khan\Desktop\New folder (2)\Hamza\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Hamza Khan\Desktop\New folder (2)\Hamza\Server\Server\bin\Debug\Server.exe
+C:\Users\Hamza Khan\Desktop\New folder (2)\Hamza\Server\Server\bin\Debug\Server.pdb
+C:\Users\Hamza Khan\Desktop\New folder (2)\Hamza\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Hamza Khan\Desktop\New folder (2)\Hamza\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Hamza Khan\Desktop\New folder (2)\Hamza\Server\Server\obj\Debug\Server.exe
+C:\Users\Hamza Khan\Desktop\New folder (2)\Hamza\Server\Server\obj\Debug\Server.pdb
